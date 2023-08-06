@@ -1,4 +1,4 @@
-# British-airway-internship-Two-Projects-
+# British-airways-internship-Two-Tasks-
 This is an online internship offer by 'British Airways,' providing two tasks. Attached are the files for both tasks.
 
 
